@@ -1,4 +1,4 @@
-#Prediction of Tehran Stock Market Index using LSTM and GRU with TensorFlow
+# Prediction of Tehran Stock Market Index using LSTM and GRU with TensorFlow
 This project implements a time-series prediction model for the Tehran Stock Market Index (TEPIX) using Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU) neural networks with TensorFlow. The model uses daily closing prices of TEPIX from 2015 to 2021 to predict future prices.
 
 ## Dataset
